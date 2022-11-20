@@ -93,6 +93,7 @@
 .card--item:hover{
   box-shadow: 0 0 10px 3px #424242d0;
   z-index: 1;
+  transition: 0.5s;
 }
 .icon{
   background: url(https://picsum.photos/id/1005/200/300)no-repeat center/cover;

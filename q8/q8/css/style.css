@@ -3,14 +3,14 @@
   height: 500px;
 }
 .image-box{
-  background: url(file:///C:/Users/user/.vscode/LayoutParts-Part2/q8/image/coffee-background.jpg);
+  background: url(../../image/coffee-background.jpg);
 }
 .image-box-repeat{
-  background: url(file:///C:/Users/user/.vscode/LayoutParts-Part2/q8/image/coffee-background.jpg) no-repeat;
+  background: url(../../image/coffee-background.jpg) no-repeat;
 }
 .image-center-box{
-  background: url(file:///C:/Users/user/.vscode/LayoutParts-Part2/q8/image/coffee-background.jpg) no-repeat center/cover;
+  background: url(../../image/coffee-background.jpg) no-repeat center/cover;
 }
 .image-contain-box{
-  background: url(file:///C:/Users/user/.vscode/LayoutParts-Part2/q8/image/coffee-background.jpg) no-repeat center/contain;
+  background: url(../../image/coffee-background.jpg) no-repeat center/contain;
 }
